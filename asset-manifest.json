@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactrouter/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/reactrouter/static/js/main.4bc6bcca.chunk.js",
+    "main.js.map": "/reactrouter/static/js/main.4bc6bcca.chunk.js.map",
+    "runtime-main.js": "/reactrouter/static/js/runtime-main.7a754bba.js",
+    "runtime-main.js.map": "/reactrouter/static/js/runtime-main.7a754bba.js.map",
+    "static/css/2.1e91ffeb.chunk.css": "/reactrouter/static/css/2.1e91ffeb.chunk.css",
+    "static/js/2.828121d1.chunk.js": "/reactrouter/static/js/2.828121d1.chunk.js",
+    "static/js/2.828121d1.chunk.js.map": "/reactrouter/static/js/2.828121d1.chunk.js.map",
+    "static/js/3.6afc522f.chunk.js": "/reactrouter/static/js/3.6afc522f.chunk.js",
+    "static/js/3.6afc522f.chunk.js.map": "/reactrouter/static/js/3.6afc522f.chunk.js.map",
+    "index.html": "/reactrouter/index.html",
+    "static/css/2.1e91ffeb.chunk.css.map": "/reactrouter/static/css/2.1e91ffeb.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/reactrouter/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.828121d1.chunk.js.LICENSE.txt": "/reactrouter/static/js/2.828121d1.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/reactrouter/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a754bba.js",
+    "static/css/2.1e91ffeb.chunk.css",
+    "static/js/2.828121d1.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4bc6bcca.chunk.js"
+  ]
+}
